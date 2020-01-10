@@ -1,0 +1,15 @@
+[package]
+name = "tinterm"
+version = "0.1.0"
+edition = "2021"
+authors = ["Bratish Goswami <bratishgoswami@gmail.com>"]
+description = "A library for vibrant solid and gradient text in terminal outputs."
+license = "MIT"
+repository = "https://github.com/bratishgoswami/tinterm"
+keywords = ["terminal", "color", "gradient", "text", "ansi"]
+categories = ["command-line-utilities", "text-processing", "rust", "terminal", "color", "gradient"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
