@@ -7,9 +7,7 @@ description = "A library for vibrant solid and gradient text in terminal outputs
 license = "MIT"
 repository = "https://github.com/bratish/Tinterm"
 keywords = ["terminal", "color", "gradient", "text", "ansi"]
-categories = ["command-line-utilities", "text-processing", "terminal", "color", "gradient"]
+categories = ["command-line-utilities", "text-processing", "command-line-interface"]
 
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
