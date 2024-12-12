@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Bratish Goswami <bratishgoswami@gmail.com>"]
 description = "A library for vibrant solid and gradient text in terminal outputs."
 license = "MIT"
-repository = "https://github.com/bratishgoswami/tinterm"
+repository = "https://github.com/bratish/Tinterm"
 keywords = ["terminal", "color", "gradient", "text", "ansi"]
 categories = ["command-line-utilities", "text-processing", "rust", "terminal", "color", "gradient"]
 
